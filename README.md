@@ -13,7 +13,7 @@ Our repository lists a collection of datasets for detecting advanced persistent 
 | ATTACK DB OTX-XFORCE-VT                           | CTI               | 04/2019 | json | [Dataset](https://ieee-dataport.org/documents/attack-db-otx-xforce-vt) [Paper](https://ieeexplore.ieee.org/document/8701505)
 | A SEMI REAL DATASET OF META-ALERTS FOR APT ATTACK DETECTION | Alerts  | 09/2020 | text | [Dataset](https://ieee-dataport.org/documents/semi-real-dataset-meta-alerts-apt-attack-detection) [Paper](https://ieeexplore.ieee.org/document/9186060)
 | Linux-APT-Dataset-2024 | Alerts  | 02/2024 | text | [Dataset](https://zenodo.org/records/10685642) 
-| SAPPAN: Advanced Threat Data | Windows and Network Logs                | 10/2021 | json & pcap | [Dataset](https://zenodo.org/records/10685642) 
+| SAPPAN: Advanced Threat Data | Windows and Network Logs                | 10/2021 | json & pcap | [Dataset](https://sappan-project.eu/?page_id=1765) 
 | Advanced Persistent Threats (APTs) campaigns database | CTI            | 10/2021 | text| [Dataset](https://zenodo.org/records/7357568) [Github](https://github.com/giorgioditizio/APTs-database) [Paper](https://ieeexplore.ieee.org/document/9780011)
 | DAPT 2020 | System and Network Logs | 08/2020 | text & pcap| [Dataset](https://www.kaggle.com/datasets/sowmyamyneni/dapt2020) [Paper](https://link.springer.com/chapter/10.1007/978-3-030-59621-7_8)
 
