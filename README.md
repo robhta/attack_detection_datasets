@@ -32,7 +32,6 @@ Our repository lists a collection of datasets for detecting advanced persistent 
 ## Other Network Log Datasets
 | Dataset Name                                      | Classification    | Date | Format |Reference | Description |
 |--------------|-------------|-----------|-----------|-----------|-----------|
-| ProvSec                                           | Network Logs |  11/2023 | json | [Dataset](https://uco-cyber.github.io/research/#provsec) [Paper](https://link.springer.com/article/10.1007/s44227-023-00014-9)
 | Bot-IoT                                           | Network Logs  |  05/2017 | csv | [Website](https://research.unsw.edu.au/projects/bot-iot-dataset)
 | TON-IoT                                           | Network Logs  |  05/2017 | csv | [Website](https://research.unsw.edu.au/projects/toniot-datasets)
 | Edge-IIoTset                                           | Network Logs  |  04/2022 | csv | [Website](https://www.kaggle.com/datasets/mohamedamineferrag/edgeiiotset-cyber-security-dataset-of-iot-iiot) [Paper](https://ieeexplore.ieee.org/document/9751703)
