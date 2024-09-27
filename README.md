@@ -45,7 +45,7 @@ Our repository lists a collection of datasets for detecting advanced persistent 
 | Anomaly Detection Dataset for Industrial Control Systems                                           | Network Logs |  05/2023 | csv | [Dataset](https://www.kaggle.com/datasets/alirezadehlaghi/icssim) [Paper](https://arxiv.org/pdf/2305.09678.pdf)
 | WUSTL-IIOT-2018                                           | Network Logs |  05/2023 | csv | [Dataset](https://www.cse.wustl.edu/~jain/iiot/ftp/wustl-scada-2018.csv) [Website](https://www.cse.wustl.edu/~jain/iiot/index.html) [Paper](https://www.mdpi.com/1999-5903/10/8/76)
 | HAI (HIL-based Augmented ICS) Security Dataset                                           | Physical Measurements |  05/2023 | csv | [Github](https://github.com/icsdataset/hai)
-| Dataset from syslrn: learning what to monitor for efficient anomaly detection                                           | Application Logs |  03/2022 | Application Logs | [Dataset](https://zenodo.org/records/6374398) [Paper](https://dl.acm.org/doi/10.1145/3517207.3526979)
+| Dataset from syslrn: learning what to monitor for efficient anomaly detection                                           | Application Logs |  03/2022 | text | [Dataset](https://zenodo.org/records/6374398) [Paper](https://dl.acm.org/doi/10.1145/3517207.3526979)
 
 
 
